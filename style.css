@@ -28,7 +28,7 @@ body {
     margin-bottom: 40px;
 }
 
-.profile-image img {
+.photo-image img {
     width: 160px;
     height: 160px;
     object-fit: cover;
@@ -107,7 +107,7 @@ ul {
         text-align: center;
     }
 
-    .profile-image img {
+    .photo-image img {
         width: 130px;
         height: 130px;
     }
